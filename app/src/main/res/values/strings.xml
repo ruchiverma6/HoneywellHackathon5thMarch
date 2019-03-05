@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShareIsCare</string>
+    <string name="Intrest_Tab">Intrests</string>
+    <string name="Group_Tab">Groups</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_connectivity_msg">No Internet Connection. Please Connect to internet.</string>
+    <string name="data_no_retrival_message">Unable to retrieve data. Please try again later.</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="prefs_sort_default_value">popular</string>
+    <string name="movies_title">Movies</string>
+    <string name="books_title">Books</string>
+    <string name="empty_group_message">No groups for you. Start Creating new groups.</string>
+</resources>
